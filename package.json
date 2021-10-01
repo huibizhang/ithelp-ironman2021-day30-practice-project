@@ -1,0 +1,18 @@
+{
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "3.1.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.2.3",
+    "@vue/compiler-sfc": "3.1.5",
+    "tailwind-flagger": "^0.1.0",
+    "vitawind": "^1.2.7",
+    "vite": "^2.4.4"
+  }
+}
